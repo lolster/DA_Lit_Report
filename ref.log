@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdftex 2016.10.15)  15 OCT 2016 16:11
+entering extended mode
+**F:/GitHub_Repo/Data_Analytics/ref.bib
+(F:/GitHub_Repo/Data_Analytics/ref.bib
+! Undefined control sequence.
+l.32  title={\IEEE
+                  \ Xplore},
+? 
+! Emergency stop.
+l.32  title={\IEEE
+                  \ Xplore},
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
