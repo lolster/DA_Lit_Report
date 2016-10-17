@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.20)  15 OCT 2016 18:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.20)  16 OCT 2016 21:54
 entering extended mode
-**F:/GitHub_Repo/Data_Analytics/main.tex
-(F:/GitHub_Repo/Data_Analytics/main.tex
+**F:/GitHub_Repo/DA_Lit_Report/main.tex
+(F:/GitHub_Repo/DA_Lit_Report/main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(F:\GitHub_Repo\Data_Analytics\IEEEtran.cls
+(F:\GitHub_Repo\DA_Lit_Report\IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -152,7 +152,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-(F:\GitHub_Repo\Data_Analytics\main.aux)
+(F:\GitHub_Repo\DA_Lit_Report\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -200,16 +200,16 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
-<ds.png, id=9, 620.3175pt x 548.0475pt>
-File: ds.png Graphic file (type png)
- <use ds.png>
-Package pdftex.def Info: ds.png used on input line 41.
-(pdftex.def)             Requested size: 252.0pt x 222.63538pt.
-
-<ppl.png, id=10, 620.3175pt x 548.0475pt>
+<ppl.png, id=9, 620.3175pt x 548.0475pt>
 File: ppl.png Graphic file (type png)
  <use ppl.png>
-Package pdftex.def Info: ppl.png used on input line 46.
+Package pdftex.def Info: ppl.png used on input line 41.
+(pdftex.def)             Requested size: 252.0pt x 222.63538pt.
+
+<ds.png, id=10, 620.3175pt x 548.0475pt>
+File: ds.png Graphic file (type png)
+ <use ds.png>
+Package pdftex.def Info: ds.png used on input line 46.
 (pdftex.def)             Requested size: 252.0pt x 222.63538pt.
 
 <prereq.png, id=11, 545.03625pt x 384.43625pt>
@@ -217,9 +217,15 @@ File: prereq.png Graphic file (type png)
  <use prereq.png>
 Package pdftex.def Info: prereq.png used on input line 59.
 (pdftex.def)             Requested size: 252.0pt x 177.74619pt.
- [2 <F:/GitHub_Repo/Data_Analytics/ds.png> <F:/GitHub_Repo/Data_Analytics/ppl.p
-ng>]
-(F:\GitHub_Repo\Data_Analytics\main.bbl)
+
+<projflow.png, id=13, 715.67375pt x 183.68625pt>
+File: projflow.png Graphic file (type png)
+ <use projflow.png>
+Package pdftex.def Info: projflow.png used on input line 64.
+(pdftex.def)             Requested size: 252.0pt x 64.67792pt.
+ [2 <F:/GitHub_Repo/DA_Lit_Report/ppl.png> <F:/GitHub_Repo/DA_Lit_Report/ds.png
+>]
+(F:\GitHub_Repo\DA_Lit_Report\main.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -231,25 +237,25 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[3 <F:/GitHub_Repo/Data_Analytics/prereq.png>]
-(F:\GitHub_Repo\Data_Analytics\main.aux) ) 
+[3 <F:/GitHub_Repo/DA_Lit_Report/prereq.png> <F:/GitHub_Repo/DA_Lit_Report/proj
+flow.png>] (F:\GitHub_Repo\DA_Lit_Report\main.aux) ) 
 Here is how much of TeX's memory you used:
- 2006 strings out of 493921
- 32353 string characters out of 3144876
- 92568 words of memory out of 3000000
- 5327 multiletter control sequences out of 15000+200000
+ 2012 strings out of 493921
+ 32435 string characters out of 3144876
+ 92576 words of memory out of 3000000
+ 5332 multiletter control sequences out of 15000+200000
  37360 words of font info for 73 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 33i,11n,27p,1405b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/t
-imes/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmbi8
-a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 152824 bytes).
+ 33i,11n,27p,1404b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiK
+TeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a
+.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (3 pages, 163882 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
